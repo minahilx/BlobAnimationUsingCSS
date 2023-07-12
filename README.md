@@ -3,8 +3,7 @@
 A visually dynamic project that showcases the artistry of a self-created animated blob using CSS. 
 
 Features:
-
-Custom Blob Animation: self-created animated blob using CSS.
+Custom Blob Animation: Self-created animated blob using CSS.
 
 Fluid Motion: The blob gracefully transitions between shapes and sizes.
 
