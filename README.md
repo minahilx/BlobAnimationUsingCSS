@@ -2,7 +2,6 @@
 
 A visually dynamic project. Features include:
 
-
 Custom Blob Animation: Self-created animated blob using CSS.
 
 Fluid Motion: The blob gracefully transitions between shapes and sizes.
