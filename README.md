@@ -1,6 +1,6 @@
 # ImageBlobAnimationUsingCSS
 
-A visually dynamic project that showcases the artistry of a self-created animated blob using CSS. Features include:
+A visually dynamic web page that showcases the artistry of a self-created animated blob using CSS. Features include:
 
 
 Custom Blob Animation: Self-created animated blob using CSS.
