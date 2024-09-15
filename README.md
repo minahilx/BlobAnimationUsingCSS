@@ -1,4 +1,4 @@
-# ImageBlobAnimationUsingCSS
+# Blob Animation Using CSS
 
 A visually dynamic project. Features include:
 
