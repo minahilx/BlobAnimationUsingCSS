@@ -1,4 +1,4 @@
-# Blob Animation Using CSS
+# Blob Animation using CSS
 
 A visually dynamic project. Features include:
 
